@@ -1,0 +1,145 @@
+{
+ "name": "Me",
+ "children": [
+  {
+   "name": "Skills", "size": 721,
+   "children": [
+    {
+     "name": "PHP", "size": 721
+    },
+    {
+     "name": "SQL", "size": 721
+    },
+    {
+     "name": "C", "size": 721
+    },
+       {
+     "name": "C++", "size": 721
+    },
+    {
+     "name": "JavaScript", "size": 721
+    },
+    {
+     "name": "R", "size": 721
+    },
+    {
+     "name": "Swift", "size": 721
+    },
+    {
+     "name": "d3.js", "size": 721
+    },
+    {
+     "name": "Python", "size": 721
+    },
+    {
+     "name": "CSS", "size": 721
+    },
+    {
+     "name": "HTML 5", "size": 721
+    }
+     
+   ]
+  },
+  {
+   "name": "Experience", "size": 721,
+   "children": [
+       {
+     "name": "Co-Founder & Data Analyst (Sept 2014 - Present)", "size": 721,
+     "children": [
+      {
+          "name": "Mathyogi - Las Vegas, NM", "size": 721,
+            "children": [
+                {"name": "Develop and implement data collection systems that optimize statistical efficiency and data quality", "size": 721},
+                {"name": "Analyze and visualize data", "size": 721},
+                {"name": "Assist in database administration and design", "size": 721},
+                {"name": "Help build and maintain key performance indicators", "size": 721}
+            ]
+      }
+     ]
+    },
+    {
+     "name": "ExEd Backend Designer(Sept 2014 - Present)", "size": 721,
+     "children": [
+      {
+          "name": "UWC-USA - Montezuma, NM", "size": 721,
+            "children": [
+                {"name": "Define site objectives by analyzing user requirements; envisioning system features and functionality", "size": 721},
+                {"name": "Integrate applications by designing database architecture and server scripting", "size": 721}
+            ]
+      }
+     ]
+    },
+    {
+     "name": "IOS App Developer (Jan 2015 - Present)", "size": 721,
+     "children": [
+      {
+          "name": "Stuff Switch - Las Vegas, NM", "size": 721,
+            "children": [
+                {"name": "Code front end", "size": 721},
+                {"name": "Develop Backend", "size": 721}
+            ]
+      }
+     ]
+    },
+    {
+     "name": "Co-founder & Tutor (Jan 2015 - Present)",  "size": 721,
+     "children": [
+      {
+          "name": "IBMathPractice - Las Vegas, NM", "size": 721,
+            "children": [
+                {"name": "Create Online lectures for Udemy and IB Mathematical Studies Course", "size": 721},
+                {"name": "Partnered with UWC-USA to be a tutor forIB Math Studies", "size": 721}
+            ]
+      }
+     ]
+    },
+    {
+     "name": "Regional Coodinator (09/2014 - 07/2015)", "size": 721,
+     "children": [
+      {
+          "name": "Online UWC - London", "size": 721,
+            "children": [
+                {"name": "Manage a team of ten mentors", "size": 721},
+                {"name": "Coordinated all online lectures", "size": 721},
+                {"name": "Organize and chair mentor's meeting", "size": 721}
+            ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Education","size": 721,
+   "children": [
+    {
+     "name": "Masters of Software-Driven Systems Design", "size": 721,
+     "children": [
+      {"name": "Software Development and Design ( May 2016)", "size": 721},
+      {"name": " Las Vegas, NM", "size": 721}
+     ]
+    },
+       {
+     "name": "Bachelor of Arts", "size": 721,
+     "children": [
+      {"name": " Statistics and Economics ( May 2014)", "size": 721},
+      {"name": " Decora, IA", "size": 721}
+     ]
+    },
+    {
+     "name": "International Baccalaureate Diploma ( May 2016)", "size": 721,
+     "children": [
+      {"name": "Waterford Kamhlaba United World College - Mbabane", "size": 721}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "For Fun", "size": 721,
+   "children": [
+       {"name": "Run Altras", "size": 721},
+       {"name": "Blog about running experience", "size": 721},
+       {"name": "Photographer", "size": 721}
+   ]
+  }
+ ]
+}
